@@ -1,0 +1,60 @@
+- How many users do you expect per day/hour?
+- How is the availability of the system?
+- What questions should be in the form?
+- Do you want to notify some users when an application is submitted?
+- Where should be the submitted forms be? a destination email? a database?
+- Do you want a system that displays the submitted application?
+- Do you want to have feature for exporting application into some files? PDF, Excel, TXT...
+- Will you need to update the questions in the application form at any time? 
+- Do you require to update the questions in the application form in the system once you update it?
+- What kind of answers would you need? input box, dropdown selector, checkbox, date input?
+- Do you want to have a feature for user to save and update later?
+- Do you want to have a feature for user to create draft?
+- Do you want to have a feature let user know how's the application process? in review, submitted, withdrawal, rejected...
+- Do you want to have a notification system send email/SMS to user when there's an application update?
+- Do you want to have a comment/reply box in the form that let requestor and reviews communicate?
+- What kind of approval would you need?
+- Do you require multi-level approvals for the application?
+- Do you require one user approve or all user approve for each level approval?
+- Do you need a list to store user's all applications? draft, submitted, approved, rejected, ...
+- Do you need a search box for user to search and filter the application list?
+- Do you need a saved search list for the application list?
+- Do you need multiple stages for the application form? personal info, general info, pet info, address, review, signature, submit...
+- Do you need authentication system? login, logout,  auth(google, facebook login), sign up?
+- Do you need to support attachment uploading? for supporting documents.
+- How long do you expect the uploaded files to live? auto delete after some time to save storage.
+- What kind of file types would you support? txt, pdf.
+- Do you need place any help text to help user?
+- Do you need a survey in the end?
+- Do you need data analysis? e.g. how many users per day, age of users... then we will need develop logging.
+
+Questions I have added to the list:
+
+- Do you need to include the dog breeds list to select from?
+- Do you need the option for adding the picture of dog?
+- Should there be an option for the Gender of the dog?
+- Do you need field for the identification (tags, tattoos, microchips)?
+- How would you like us to conduct future correspondence with the user (paper, email, both);
+- Should there be an option for showing the lost or found dog information public?
+- Do you need the license fee schedule?
+- Do you need to change the pricing of the licensing in the future?
+- Do you want an option for discount?
+- Should there be an option for renewing the license?
+- Do you need News and Feed section?
+- Do you need an option for the vaccination information?
+- Do you need an option to update the dog's license information (new owner name etc)?
+- Should there be an age restriction for having dog license?
+- Do you want a barcode option for the Microchip/Tatto No?
+- What options do you want us to add for the payment purpose?
+- Should there be an option for any visitor to search the dog information by owner name or dog name?
+- Do you want to notify the user about the expiry date of the license?
+- Should there be an option for searching dog by the state and Municipality?
+- Should there be an option for methods of getting the license card(Deliver to home etc)?
+- Should there be an select menu for the dog attributes?
+- Do you want the option for uploading the proof of vaccine?
+- Do you want to update the information about current owner?
+- Do you want to add the information about the lost, no longer owned, deceased?
+
+
+
+
